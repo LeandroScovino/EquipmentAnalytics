@@ -1,0 +1,26 @@
+﻿Severity,Type,Code,Source,Description,Count,Asset,Site
+High,Event,13:3,Engine,High Crankcase Pressure Shutdown,2,SLM00576,Fernando de Noronha
+High,Event,225:3,Engine,Engine Overcrank,2,SLM00576,Fernando de Noronha
+High,Event,264:3,Engine,Emergency Stop Activated,1,SLM00576,Fernando de Noronha
+High,Event,4:3,Engine,Engine Overspeed Shutdown,1,SLM00576,Fernando de Noronha
+Low,Diagnostic,101:3,Engine,Crankcase Air Pressure Sensor:Voltage Above Normal,4,SLM00576,Fernando de Noronha
+Low,Diagnostic,105:3,Engine,Inlet Manifold Temperature Sensor:Voltage Above Normal,2,SLM00576,Fernando de Noronha
+Low,Diagnostic,2738:3,Engine,Turbocharger #1 Compressor Inlet Pressure Sensor:Voltage Above Normal,2,SLM00576,Fernando de Noronha
+Low,Diagnostic,2739:3,Engine,Turbocharger #2 Compressor Inlet Pressure Sensor:Voltage Above Normal,1,SLM00576,Fernando de Noronha
+Low,Diagnostic,289:2,Engine,"Fuel Pressure Sensor - Before Fuel Filter:Erratic, Intermittent, or Incorrect",1,SLM00576,Fernando de Noronha
+Low,Diagnostic,336:2,Engine,"Engine Control Switch:Erratic, Intermittent, or Incorrect",1,SLM00576,Fernando de Noronha
+Low,Diagnostic,94:2,Engine,"Fuel Delivery Pressure Sensor:Erratic, Intermittent, or Incorrect",1,SLM00576,Fernando de Noronha
+Low,Event,100:1,Engine,Low Engine Oil Pressure Warning,2,SLM00576,Fernando de Noronha
+Low,Event,101:1,Engine,High Crankcase Pressure Warning,2,SLM00576,Fernando de Noronha
+Low,Event,190:1,Engine,Engine Overspeed Warning,1,SLM00576,Fernando de Noronha
+Low,Event,2143:1,Engine,Low Engine Coolant Level,2,SLM00576,Fernando de Noronha
+Medium,Diagnostic,10:5,Engine,Cylinder #10 Injector:Current Below Normal,1,SLM00576,Fernando de Noronha
+Medium,Diagnostic,11:5,Engine,Cylinder #11 Injector:Current Below Normal,1,SLM00576,Fernando de Noronha
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,4,SLM00576,Fernando de Noronha
+Medium,Diagnostic,6:5,Engine,Cylinder #6 Injector:Current Below Normal,1,SLM00576,Fernando de Noronha
+Medium,Diagnostic,6:6,Engine,Cylinder #6 Injector:Current Above Normal,1,SLM00576,Fernando de Noronha
+Medium,Diagnostic,7:5,Engine,Cylinder #7 Injector:Current Below Normal,1,SLM00576,Fernando de Noronha
+Medium,Diagnostic,8:6,Engine,Cylinder #8 Injector:Current Above Normal,1,SLM00576,Fernando de Noronha
+Medium,Diagnostic,91:8,Engine,"Throttle Position Sensor:Abnormal Frequency, Pulse Width, or Period",3,SLM00576,Fernando de Noronha
+Medium,Diagnostic,9:5,Engine,Cylinder #9 Injector:Current Below Normal,1,SLM00576,Fernando de Noronha
+Medium,Event,9:2,Engine,High Altitude Derate,1,SLM00576,Fernando de Noronha

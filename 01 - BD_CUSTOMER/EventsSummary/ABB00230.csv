@@ -1,0 +1,16 @@
+﻿Severity,Type,Code,Source,Description,Count,Asset,Site
+High,Event,225:3,Engine #3,Engine Overcrank,2,ABB00230,Marica
+Low,Event,38:1,Engine #3,Low Engine Coolant Temperature Warning,11,ABB00230,Marica
+Low,Event,95:1,Engine #3,Fuel Filter Restriction Warning,1,ABB00230,Marica
+Medium,Diagnostic,100:3,Engine #3,Engine Oil Pressure Sensor:Voltage Above Normal,1,ABB00230,Marica
+Medium,Diagnostic,289:3,Engine #3,Fuel Pressure Sensor - Before Fuel Filter:Voltage Above Normal,1,ABB00230,Marica
+Medium,Diagnostic,336:2,Engine #3,"Engine Control Switch:Erratic, Intermittent, or Incorrect",1,ABB00230,Marica
+Medium,Diagnostic,342:8,Engine #3,"Secondary Engine Speed Sensor:Abnormal Frequency, Pulse Width, or Period",1,ABB00230,Marica
+Medium,Diagnostic,3:5,Engine #3,Cylinder #3 Injector:Current Below Normal,6,ABB00230,Marica
+Medium,Diagnostic,444:6,Engine #3,Starter Motor Relay:Current Above Normal,2,ABB00230,Marica
+Medium,Diagnostic,542:3,Engine #3,Engine Oil Pressure Sensor - Before Oil Filter:Voltage Above Normal,1,ABB00230,Marica
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,25,ABB00230,Marica
+Medium,Diagnostic,7:5,Engine #3,Cylinder #7 Injector:Current Below Normal,44,ABB00230,Marica
+Medium,Diagnostic,91:13,Engine #3,Throttle Position Sensor:Out of Calibration,1,ABB00230,Marica
+Medium,Diagnostic,91:8,Engine #3,"Throttle Position Sensor:Abnormal Frequency, Pulse Width, or Period",2,ABB00230,Marica
+Medium,Diagnostic,94:3,Engine #3,Fuel Delivery Pressure Sensor:Voltage Above Normal,1,ABB00230,Marica

@@ -1,0 +1,101 @@
+﻿Severity,Type,Code,Source,Description,Timestamp,Run_Hours,Asset,Site
+Low,Diagnostic,275:3,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Above Normal,2022-01-01 11:44:55,59324,S2R00223,Parcel do Manoel Luis
+Medium,Event,31:2,Engine,Air Filter Restriction Derate,2022-01-01 10:47:01,59323,S2R00223,Parcel do Manoel Luis
+Low,Event,272:1,Engine,Inlet Air Restriction Warning,2022-01-01 10:47:01,59323,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:3,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Above Normal,2021-12-30 22:37:47,59323,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:3,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Above Normal,2021-12-30 21:35:53,59322,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:3,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Above Normal,2021-12-30 20:24:27,59320,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:3,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Above Normal,2021-12-30 18:17:45,59318,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:3,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Above Normal,2021-12-30 17:12:54,59317,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:3,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Above Normal,2021-12-30 16:08:24,59316,S2R00223,Parcel do Manoel Luis
+Low,Event,38:1,Engine,Low Engine Coolant Temperature Warning,2021-12-30 14:38:34,59315,S2R00223,Parcel do Manoel Luis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2021-12-30 14:00:38,59314,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:3,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Above Normal,2021-12-30 11:49:05,59313,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:3,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Above Normal,2021-12-30 06:34:54,59308,S2R00223,Parcel do Manoel Luis
+Low,Event,95:1,Engine,Fuel Filter Restriction Warning,2021-12-30 01:08:41,59303,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:3,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Above Normal,2021-12-29 23:29:29,59301,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:3,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Above Normal,2021-12-29 21:41:16,59299,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:3,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Above Normal,2021-12-29 19:53:12,59297,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:3,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Above Normal,2021-12-29 18:02:16,59296,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:3,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Above Normal,2021-12-29 15:27:21,59293,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:3,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Above Normal,2021-12-29 14:06:54,59292,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:3,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Above Normal,2021-12-29 10:17:25,59288,S2R00223,Parcel do Manoel Luis
+Medium,Event,31:2,Engine,Air Filter Restriction Derate,2021-12-26 02:15:58,59213,S2R00223,Parcel do Manoel Luis
+Low,Event,272:1,Engine,Inlet Air Restriction Warning,2021-12-26 02:15:58,59213,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:3,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Above Normal,2021-12-26 01:04:21,59211,S2R00223,Parcel do Manoel Luis
+Low,Event,173:1,Engine,High Exhaust Temperature Warning,2021-12-25 05:22:03,59202,S2R00223,Parcel do Manoel Luis
+Low,Event,173:1,Engine,High Exhaust Temperature Warning,2021-12-25 01:57:14,59199,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,542:2,Engine,"Engine Oil Pressure Sensor - Before Oil Filter:Erratic, Intermittent, or Incorrect",2021-12-23 08:23:42,59171,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,100:2,Engine,"Engine Oil Pressure Sensor:Erratic, Intermittent, or Incorrect",2021-12-23 08:23:42,59171,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,542:4,Engine,Engine Oil Pressure Sensor - Before Oil Filter:Voltage Below Normal,2021-12-23 08:23:28,59171,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,542:2,Engine,"Engine Oil Pressure Sensor - Before Oil Filter:Erratic, Intermittent, or Incorrect",2021-12-22 09:09:24,59153,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,100:2,Engine,"Engine Oil Pressure Sensor:Erratic, Intermittent, or Incorrect",2021-12-22 09:09:24,59153,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,542:4,Engine,Engine Oil Pressure Sensor - Before Oil Filter:Voltage Below Normal,2021-12-22 09:09:08,59153,S2R00223,Parcel do Manoel Luis
+Low,Event,173:1,Engine,High Exhaust Temperature Warning,2021-12-21 06:04:51,59132,S2R00223,Parcel do Manoel Luis
+Low,Event,173:1,Engine,High Exhaust Temperature Warning,2021-12-21 04:16:42,59131,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,100:2,Engine,"Engine Oil Pressure Sensor:Erratic, Intermittent, or Incorrect",2021-12-21 03:42:27,59130,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,542:2,Engine,"Engine Oil Pressure Sensor - Before Oil Filter:Erratic, Intermittent, or Incorrect",2021-12-21 03:42:27,59130,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,542:4,Engine,Engine Oil Pressure Sensor - Before Oil Filter:Voltage Below Normal,2021-12-21 03:42:16,59130,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,100:2,Engine,"Engine Oil Pressure Sensor:Erratic, Intermittent, or Incorrect",2021-12-20 06:51:23,59122,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,542:2,Engine,"Engine Oil Pressure Sensor - Before Oil Filter:Erratic, Intermittent, or Incorrect",2021-12-20 06:51:23,59122,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:3,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Above Normal,2021-12-18 18:38:05,59117,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,542:2,Engine,"Engine Oil Pressure Sensor - Before Oil Filter:Erratic, Intermittent, or Incorrect",2021-12-18 14:16:54,59116,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,100:2,Engine,"Engine Oil Pressure Sensor:Erratic, Intermittent, or Incorrect",2021-12-18 14:16:54,59116,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,100:2,Engine,"Engine Oil Pressure Sensor:Erratic, Intermittent, or Incorrect",2021-12-17 14:43:10,59105,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,542:2,Engine,"Engine Oil Pressure Sensor - Before Oil Filter:Erratic, Intermittent, or Incorrect",2021-12-17 14:43:10,59105,S2R00223,Parcel do Manoel Luis
+Low,Event,101:1,Engine,High Crankcase Pressure Warning,2021-12-17 07:45:46,59098,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:3,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Above Normal,2021-12-14 04:09:33,59098,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,100:2,Engine,"Engine Oil Pressure Sensor:Erratic, Intermittent, or Incorrect",2021-12-13 16:42:26,59096,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,542:2,Engine,"Engine Oil Pressure Sensor - Before Oil Filter:Erratic, Intermittent, or Incorrect",2021-12-13 16:42:26,59096,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,542:4,Engine,Engine Oil Pressure Sensor - Before Oil Filter:Voltage Below Normal,2021-12-13 16:42:15,59096,S2R00223,Parcel do Manoel Luis
+Low,Event,101:1,Engine,High Crankcase Pressure Warning,2021-12-13 15:43:16,59095,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,542:2,Engine,"Engine Oil Pressure Sensor - Before Oil Filter:Erratic, Intermittent, or Incorrect",2021-12-11 12:51:26,59093,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,100:2,Engine,"Engine Oil Pressure Sensor:Erratic, Intermittent, or Incorrect",2021-12-11 12:51:25,59093,S2R00223,Parcel do Manoel Luis
+Low,Event,38:1,Engine,Low Engine Coolant Temperature Warning,2021-12-08 11:01:44,59069,S2R00223,Parcel do Manoel Luis
+Medium,Event,31:2,Engine,Air Filter Restriction Derate,2021-12-08 10:52:09,59069,S2R00223,Parcel do Manoel Luis
+Low,Event,272:1,Engine,Inlet Air Restriction Warning,2021-12-08 10:52:08,59069,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:3,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Above Normal,2021-12-08 09:25:00,59069,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:3,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Above Normal,2021-12-08 08:13:29,59068,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:4,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Below Normal,2021-12-08 07:25:14,59067,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:4,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Below Normal,2021-12-08 06:22:53,59066,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:4,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Below Normal,2021-12-08 02:49:33,59062,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:4,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Below Normal,2021-12-08 01:49:20,59061,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:4,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Below Normal,2021-12-08 00:47:48,59060,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:4,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Below Normal,2021-12-07 23:47:24,59059,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:4,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Below Normal,2021-12-07 22:45:14,59058,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:4,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Below Normal,2021-12-07 20:58:07,59056,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:4,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Below Normal,2021-12-07 19:42:47,59055,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:4,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Below Normal,2021-12-07 18:07:57,59053,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:4,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Below Normal,2021-12-07 16:02:55,59051,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:4,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Below Normal,2021-12-07 15:00:53,59050,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:4,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Below Normal,2021-12-07 13:44:49,59049,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:4,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Below Normal,2021-12-07 12:38:21,59048,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:3,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Above Normal,2021-12-07 08:47:36,59044,S2R00223,Parcel do Manoel Luis
+Low,Event,272:1,Engine,Inlet Air Restriction Warning,2021-12-07 07:42:25,59043,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:3,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Above Normal,2021-12-07 01:38:19,59043,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,276:3,Engine,Left Turbocharger Inlet Pressure Sensor:Voltage Above Normal,2021-12-06 23:24:27,59043,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:3,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Above Normal,2021-12-06 15:37:50,59035,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:3,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Above Normal,2021-12-06 14:16:22,59034,S2R00223,Parcel do Manoel Luis
+Low,Event,272:1,Engine,Inlet Air Restriction Warning,2021-12-06 13:59:34,59034,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:4,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Below Normal,2021-12-03 06:25:14,59033,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:4,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Below Normal,2021-12-03 04:56:04,59031,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:4,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Below Normal,2021-12-03 03:53:00,59030,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:4,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Below Normal,2021-12-03 01:49:54,59028,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:4,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Below Normal,2021-12-03 00:34:44,59027,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:4,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Below Normal,2021-12-02 23:31:25,59026,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:4,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Below Normal,2021-12-02 22:26:12,59025,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:4,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Below Normal,2021-12-02 21:07:28,59024,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:4,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Below Normal,2021-12-02 12:37:02,59015,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:3,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Above Normal,2021-12-02 07:38:21,59010,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:3,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Above Normal,2021-12-02 06:21:09,59009,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:3,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Above Normal,2021-12-02 05:07:29,59008,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:4,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Below Normal,2021-12-02 04:05:46,59006,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:3,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Above Normal,2021-12-02 04:03:50,59006,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:4,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Below Normal,2021-12-02 02:19:38,59005,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:4,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Below Normal,2021-12-02 01:19:34,59004,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:4,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Below Normal,2021-12-01 23:40:33,59002,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:4,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Below Normal,2021-12-01 22:24:23,59001,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:4,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Below Normal,2021-12-01 19:52:58,58998,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:4,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Below Normal,2021-12-01 17:39:35,58996,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:4,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Below Normal,2021-12-01 16:37:18,58995,S2R00223,Parcel do Manoel Luis
+Low,Diagnostic,275:4,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Below Normal,2021-12-01 15:35:51,58994,S2R00223,Parcel do Manoel Luis

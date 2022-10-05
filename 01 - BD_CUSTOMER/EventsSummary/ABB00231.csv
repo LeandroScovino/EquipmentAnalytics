@@ -1,0 +1,27 @@
+﻿Severity,Type,Code,Source,Description,Count,Asset,Site
+High,Event,264:3,Engine,Emergency Stop Activated,1,ABB00231,Martin Miller
+Low,Diagnostic,100:3,Engine,Engine Oil Pressure Sensor:Voltage Above Normal,1,ABB00231,Martin Miller
+Low,Diagnostic,1495:2,Engine,Injector Trim Codes Not Programmed,1,ABB00231,Martin Miller
+Low,Diagnostic,175:3,Engine,Engine Oil Temperature Sensor:Voltage Above Normal,1,ABB00231,Martin Miller
+Low,Diagnostic,247:9,Engine,SAE J1939 Data Link:Abnormal Update Rate,1,ABB00231,Martin Miller
+Low,Diagnostic,275:3,Engine,Right Turbocharger Inlet Pressure Sensor:Voltage Above Normal,1,ABB00231,Martin Miller
+Low,Diagnostic,276:3,Engine,Left Turbocharger Inlet Pressure Sensor:Voltage Above Normal,1,ABB00231,Martin Miller
+Low,Diagnostic,279:4,Engine,Aftercooler Coolant Temperature Sensor (Front):Voltage Below Normal,1,ABB00231,Martin Miller
+Low,Diagnostic,542:3,Engine,Engine Oil Pressure Sensor - Before Oil Filter:Voltage Above Normal,1,ABB00231,Martin Miller
+Low,Diagnostic,827:8,Engine,"Left Exhaust Temperature Sensor:Abnormal Frequency, Pulse Width, or Period",1,ABB00231,Martin Miller
+Low,Diagnostic,828:8,Engine,"Right Exhaust Temperature Sensor:Abnormal Frequency, Pulse Width, or Period",1,ABB00231,Martin Miller
+Low,Diagnostic,94:3,Engine,Fuel Delivery Pressure Sensor:Voltage Above Normal,1,ABB00231,Martin Miller
+Low,Event,2143:1,Engine,Low Engine Coolant Level,1,ABB00231,Martin Miller
+Medium,Diagnostic,110:3,Engine,Engine Coolant Temperature Sensor:Voltage Above Normal,1,ABB00231,Martin Miller
+Medium,Diagnostic,1249:13,Engine #5,Secondary Throttle Position calibration required,2,ABB00231,Martin Miller
+Medium,Diagnostic,1249:8,Engine #5,Secondary Throttle Position signal abnormal,1,ABB00231,Martin Miller
+Medium,Diagnostic,261:13,Engine #2,Engine Timing Calibration:Out of Calibration,1,ABB00231,Martin Miller
+Medium,Diagnostic,262:4,Engine,5 Volt Sensor DC Power Supply:Voltage Below Normal,1,ABB00231,Martin Miller
+Medium,Diagnostic,268:2,Engine #2,"Programmed Parameter Fault:Erratic, Intermittent, or Incorrect",1,ABB00231,Martin Miller
+Medium,Diagnostic,273:3,Engine,Turbocharger Outlet Pressure Sensor:Voltage Above Normal,1,ABB00231,Martin Miller
+Medium,Diagnostic,274:3,Engine,Atmospheric Pressure Sensor:Voltage Above Normal,1,ABB00231,Martin Miller
+Medium,Diagnostic,337:2,Engine #5,"Remote Emergency Stop Switch:Erratic, Intermittent, or Incorrect",1,ABB00231,Martin Miller
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,74,ABB00231,Martin Miller
+Medium,Diagnostic,91:13,Engine #5,Throttle Position Sensor:Out of Calibration,1,ABB00231,Martin Miller
+Medium,Diagnostic,91:8,Engine,"Throttle Position Sensor:Abnormal Frequency, Pulse Width, or Period",1,ABB00231,Martin Miller
+Medium,Diagnostic,91:8,Engine #5,"Throttle Position Sensor:Abnormal Frequency, Pulse Width, or Period",1,ABB00231,Martin Miller

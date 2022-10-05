@@ -1,0 +1,101 @@
+﻿Severity,Type,Code,Source,Description,Timestamp,Run_Hours,Asset,Site
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-04-27 16:09:18,55981,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-04-27 09:19:55,55978,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-04-26 10:23:25,55973,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-04-21 18:42:49,55862,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-04-20 12:22:20,55836,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-04-10 08:35:32,55592,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-04-08 10:37:56,55546,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-04-05 10:33:23,55481,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-04-04 17:29:21,55465,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-04-04 13:47:49,55463,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-04-01 10:17:11,55388,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-03-30 06:56:26,55370,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-03-28 17:40:02,55360,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-03-26 11:17:36,55322,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-03-23 15:39:35,55318,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-03-23 08:23:54,55311,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-03-22 16:40:14,55303,ABB00232,Florianopolis
+Medium,Diagnostic,91:13,Engine #5,Throttle Position Sensor:Out of Calibration,2022-03-22 14:20:07,55301,ABB00232,Florianopolis
+Medium,Diagnostic,168:1,Engine #5,Electrical System Voltage:Low,2022-03-22 14:20:07,55301,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-03-22 07:49:28,55301,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-03-21 19:31:35,55298,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-03-14 11:18:53,55286,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-03-12 16:13:11,55284,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-03-11 09:26:28,55254,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-03-08 22:00:37,55194,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-03-08 11:49:41,55184,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-03-08 10:36:19,55183,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-03-04 19:43:52,55156,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-03-04 10:50:13,55147,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-02-28 10:06:08,55125,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-02-24 21:01:18,55040,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-02-23 11:29:20,55007,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-02-22 13:10:27,54991,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-02-22 07:26:57,54989,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-02-20 17:13:29,54951,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-02-17 09:50:34,54947,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-02-13 11:47:53,54932,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-02-10 14:56:54,54930,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-02-05 08:02:39,54811,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-02-04 10:05:43,54789,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-01-31 14:48:55,54706,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-01-28 07:42:38,54644,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-01-25 08:00:06,54584,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-01-24 23:03:31,54581,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-01-20 08:08:00,54572,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-01-18 19:18:08,54570,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-01-16 00:51:12,54508,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-01-14 20:52:47,54480,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-01-13 00:13:19,54438,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-01-12 22:19:37,54436,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-01-11 12:49:52,54408,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-01-08 09:42:24,54343,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-01-02 22:52:50,54221,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2021-12-29 19:43:56,54122,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2021-12-28 18:04:00,54098,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2021-12-28 12:31:40,54096,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2021-12-28 06:39:40,54094,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2021-12-26 22:30:19,54062,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2021-12-24 17:17:37,54009,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2021-12-23 12:07:10,53979,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2021-12-18 07:36:46,53859,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2021-12-07 20:23:49,53610,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2021-12-03 23:15:55,53607,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2021-12-02 00:19:08,53567,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2021-12-01 20:35:10,53566,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2021-12-01 10:42:04,53564,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2021-11-29 23:54:57,53534,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2021-11-24 12:44:05,53406,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2021-11-20 08:37:44,53317,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2021-11-14 08:59:20,53179,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2021-11-09 15:10:13,53071,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2021-11-08 18:51:52,53061,ABB00232,Florianopolis
+Medium,Diagnostic,91:8,Engine #5,"Throttle Position Sensor:Abnormal Frequency, Pulse Width, or Period",2021-11-07 14:23:35,52972,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2021-11-07 06:24:44,53036,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2021-11-04 13:18:08,52972,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2021-11-02 02:01:54,52920,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2021-10-30 03:04:43,52852,ABB00232,Florianopolis
+Low,Event,48:1,Engine #5,Backup ECM Took Control,2021-10-29 08:22:31,52839,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2021-10-28 17:21:44,52839,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2021-10-28 09:35:58,52837,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2021-10-23 08:12:57,52716,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2021-10-22 16:35:39,52702,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2021-10-12 04:34:18,52458,ABB00232,Florianopolis
+Medium,Diagnostic,342:8,Engine #5,"Secondary Engine Speed Sensor:Abnormal Frequency, Pulse Width, or Period",2021-10-11 17:12:13,52458,ABB00232,Florianopolis
+Low,Event,48:1,Engine #5,Backup ECM Took Control,2021-10-08 09:20:37,52458,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2021-10-07 09:19:11,52457,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2021-10-06 23:42:07,52449,ABB00232,Florianopolis
+Medium,Diagnostic,276:3,Engine #5,Left Turbocharger Inlet Pressure Sensor:Voltage Above Normal,2021-10-06 21:29:21,50158,ABB00232,Florianopolis
+Medium,Diagnostic,542:3,Engine #5,Engine Oil Pressure Sensor - Before Oil Filter:Voltage Above Normal,2021-10-06 21:29:21,50158,ABB00232,Florianopolis
+Medium,Diagnostic,273:3,Engine #5,Turbocharger Outlet Pressure Sensor:Voltage Above Normal,2021-10-06 21:29:21,50158,ABB00232,Florianopolis
+Medium,Diagnostic,279:3,Engine #5,Aftercooler Coolant Temperature Sensor (Front):Voltage Above Normal,2021-10-06 21:29:21,50158,ABB00232,Florianopolis
+Medium,Diagnostic,275:3,Engine #5,Right Turbocharger Inlet Pressure Sensor:Voltage Above Normal,2021-10-06 21:29:21,50158,ABB00232,Florianopolis
+Medium,Diagnostic,289:3,Engine #5,Fuel Pressure Sensor - Before Fuel Filter:Voltage Above Normal,2021-10-06 21:29:21,50158,ABB00232,Florianopolis
+Medium,Diagnostic,101:3,Engine #5,Crankcase Air Pressure Sensor:Voltage Above Normal,2021-10-06 21:29:21,50158,ABB00232,Florianopolis
+Low,Event,48:1,Engine #5,Backup ECM Took Control,2021-10-06 20:32:57,52449,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2021-10-06 20:02:01,52448,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2021-10-05 18:25:40,52428,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2021-10-04 20:34:08,52407,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2021-10-02 15:16:51,52363,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2021-10-02 10:59:43,52362,ABB00232,Florianopolis

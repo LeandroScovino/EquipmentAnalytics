@@ -1,0 +1,20 @@
+﻿Severity,Type,Code,Source,Description,Count,Asset,Site
+High,Event,16:3,Engine,High Engine Coolant Temperature Shutdown,4,ABC00548,Hendrix
+High,Event,40:3,Engine,Low Engine Oil Pressure Shutdown,3,ABC00548,Hendrix
+High,Event,4:3,Engine,Engine Overspeed Shutdown,3,ABC00548,Hendrix
+Low,Diagnostic,100:2,Engine,"Engine Oil Pressure Sensor:Erratic, Intermittent, or Incorrect",3,ABC00548,Hendrix
+Low,Diagnostic,100:3,Engine,Engine Oil Pressure Sensor:Voltage Above Normal,3,ABC00548,Hendrix
+Low,Diagnostic,101:3,Engine,Crankcase Air Pressure Sensor:Voltage Above Normal,1,ABC00548,Hendrix
+Low,Diagnostic,175:3,Engine,Engine Oil Temperature Sensor:Voltage Above Normal,1,ABC00548,Hendrix
+Low,Diagnostic,336:2,Engine,"Engine Control Switch:Erratic, Intermittent, or Incorrect",10,ABC00548,Hendrix
+Low,Diagnostic,542:2,Engine,"Engine Oil Pressure Sensor - Before Oil Filter:Erratic, Intermittent, or Incorrect",3,ABC00548,Hendrix
+Low,Diagnostic,827:8,Engine,"Left Exhaust Temperature Sensor:Abnormal Frequency, Pulse Width, or Period",1,ABC00548,Hendrix
+Low,Event,100:1,Engine,Low Engine Oil Pressure Warning,13,ABC00548,Hendrix
+Low,Event,101:1,Engine,High Crankcase Pressure Warning,3,ABC00548,Hendrix
+Low,Event,17:1,Engine,High Engine Coolant Temperature Warning,4,ABC00548,Hendrix
+Low,Event,190:1,Engine,Engine Overspeed Warning,3,ABC00548,Hendrix
+Low,Event,99:1,Engine,Engine Oil Filter Restriction Warning,3,ABC00548,Hendrix
+Medium,Diagnostic,110:3,Engine,Engine Coolant Temperature Sensor:Voltage Above Normal,3,ABC00548,Hendrix
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,6,ABC00548,Hendrix
+Medium,Diagnostic,91:8,Engine,"Throttle Position Sensor:Abnormal Frequency, Pulse Width, or Period",2,ABC00548,Hendrix
+Medium,Event,15:2,Engine,High Engine Coolant Temperature Derate,4,ABC00548,Hendrix
