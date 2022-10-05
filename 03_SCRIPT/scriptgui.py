@@ -1572,7 +1572,7 @@ def preplistas(engine_file, event_file, ts_file, destfolder, deb):
     dailysumdir = 'DailySummary/'
 
     global infodir
-    infodir = os.path.join(swdir, '00 - INFOS/')
+    infodir = os.path.join(swdir, '00_INFOS/')
     assetinfofile = infodir + 'ASSET_INFO.xlsx'
     global assetlistdf
     assetlistdf = openfilewb(assetinfofile,'ASSET_LIST')
