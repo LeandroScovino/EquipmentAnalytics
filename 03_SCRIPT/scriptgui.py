@@ -1605,10 +1605,11 @@ def preplistas(engine_file, event_file, ts_file, destfolder, deb):
 #                                                                                      #
 ########################################################################################
 
-engine_file="D:/DEV/RFV Customer Test/02 - DATALOGS/00 - Jun 2021 to Apr 2022/HistoricalData-Transposed-2022-04-29.zip"
-event_file="D:/DEV/RFV Customer Test/02 - DATALOGS/00 - Jun 2021 to Apr 2022/EngineEventHistory-2022-04-29.xlsx"
-ts_file="D:/DEV/RFV Customer Test/TROUBLESHOOT.csv"
-path="D:/DEV/RFV Customer Test/01 - BD_CUSTOMER"
-deb=1
 
-preplistas(engine_file,event_file,ts_file,path,deb)
+# engine_file="D:/DEV/EquipmentAnalytics/02_DATALOGS/00_Jun2021_Apr2022/HistoricalData-Transposed-2022-04-29.zip"
+# event_file="D:/DEV/EquipmentAnalytics/02_DATALOGS/00_Jun2021_Apr2022/EngineEventHistory-2022-04-29.xlsx"
+# ts_file="D:/DEV/EquipmentAnalytics/TROUBLESHOOT.csv"
+# path="D:/DEV/EquipmentAnalytics/01_BD_CUSTOMER"
+# deb=1
+
+# preplistas(engine_file,event_file,ts_file,path,deb)
