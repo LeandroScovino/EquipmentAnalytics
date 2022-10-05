@@ -1,4 +1,0 @@
-﻿Severity,Type,Code,Source,Description,Count,Asset,Site
-Medium,Diagnostic,261:13,Engine #3,Engine Timing Calibration:Out of Calibration,1,ABB00234,Martin Miller
-Medium,Diagnostic,542:3,Engine #3,Engine Oil Pressure Sensor - Before Oil Filter:Voltage Above Normal,1,ABB00234,Martin Miller
-Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,46,ABB00234,Martin Miller
