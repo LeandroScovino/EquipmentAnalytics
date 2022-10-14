@@ -2,7 +2,7 @@ from tkinter import *
 from tkinter.filedialog import askdirectory
 from tkinter.filedialog import askopenfilename
 from tkinter.messagebox import askyesno, showerror, showinfo
-import scriptgui
+import engine
 import webbrowser
 import os
 
@@ -81,7 +81,7 @@ def main():
                               'Selecione o *.csv com a tabela de troubleshoot antes de continuar')
                                     
                 else:
-                    convertEngs = scriptgui.preplistas(engine_file,event_file,ts_file,path,deb)
+                    convertEngs = engine.preplistas(engine_file,event_file,ts_file,path,deb)
 
                     if not convertEngs:
                         info = showinfo(
