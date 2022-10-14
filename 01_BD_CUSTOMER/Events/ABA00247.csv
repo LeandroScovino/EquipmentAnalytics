@@ -1,0 +1,101 @@
+﻿Severity,Type,Code,Source,Description,Timestamp,Run_Hours,Asset,Site
+Low,Diagnostic,542:2,Engine,"Engine Oil Pressure Sensor - Before Oil Filter:Erratic, Intermittent, or Incorrect",2021-12-31 05:31:30,53892,ABA00247,Lewis Hamilton
+Low,Diagnostic,100:2,Engine,"Engine Oil Pressure Sensor:Erratic, Intermittent, or Incorrect",2021-12-31 05:31:30,53892,ABA00247,Lewis Hamilton
+Low,Event,99:1,Engine,Engine Oil Filter Restriction Warning,2021-12-30 14:11:32,53883,ABA00247,Lewis Hamilton
+Low,Diagnostic,542:2,Engine,"Engine Oil Pressure Sensor - Before Oil Filter:Erratic, Intermittent, or Incorrect",2021-12-29 07:41:38,53858,ABA00247,Lewis Hamilton
+Low,Diagnostic,100:2,Engine,"Engine Oil Pressure Sensor:Erratic, Intermittent, or Incorrect",2021-12-29 07:41:38,53858,ABA00247,Lewis Hamilton
+Low,Event,99:1,Engine,Engine Oil Filter Restriction Warning,2021-12-29 01:52:21,53856,ABA00247,Lewis Hamilton
+Low,Event,99:1,Engine,Engine Oil Filter Restriction Warning,2021-12-26 00:38:37,53806,ABA00247,Lewis Hamilton
+Low,Event,99:1,Engine,Engine Oil Filter Restriction Warning,2021-12-25 06:43:59,53804,ABA00247,Lewis Hamilton
+Low,Event,38:1,Engine,Low Engine Coolant Temperature Warning,2021-12-25 00:46:31,53799,ABA00247,Lewis Hamilton
+Low,Event,99:1,Engine,Engine Oil Filter Restriction Warning,2021-12-24 23:12:57,53799,ABA00247,Lewis Hamilton
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2021-12-24 20:15:37,53799,ABA00247,Lewis Hamilton
+Low,Event,99:1,Engine,Engine Oil Filter Restriction Warning,2021-12-24 16:25:49,53795,ABA00247,Lewis Hamilton
+Low,Diagnostic,336:2,Engine,"Engine Control Switch:Erratic, Intermittent, or Incorrect",2021-12-24 08:42:03,53795,ABA00247,Lewis Hamilton
+Low,Event,99:1,Engine,Engine Oil Filter Restriction Warning,2021-12-24 06:40:24,53793,ABA00247,Lewis Hamilton
+Low,Event,38:1,Engine,Low Engine Coolant Temperature Warning,2021-12-23 07:31:12,53786,ABA00247,Lewis Hamilton
+Low,Event,99:1,Engine,Engine Oil Filter Restriction Warning,2021-12-23 07:18:41,53786,ABA00247,Lewis Hamilton
+Low,Diagnostic,336:2,Engine,"Engine Control Switch:Erratic, Intermittent, or Incorrect",2021-12-23 07:17:42,53786,ABA00247,Lewis Hamilton
+Low,Event,173:1,Engine,High Exhaust Temperature Warning,2021-12-21 04:18:43,53759,ABA00247,Lewis Hamilton
+Low,Diagnostic,289:3,Engine,Fuel Pressure Sensor - Before Fuel Filter:Voltage Above Normal,2021-12-08 11:25:35,53690,ABA00247,Lewis Hamilton
+Low,Diagnostic,336:2,Engine,"Engine Control Switch:Erratic, Intermittent, or Incorrect",2021-12-08 10:00:39,53690,ABA00247,Lewis Hamilton
+Low,Diagnostic,94:2,Engine,"Fuel Delivery Pressure Sensor:Erratic, Intermittent, or Incorrect",2021-12-06 14:02:10,53690,ABA00247,Lewis Hamilton
+Low,Diagnostic,289:2,Engine,"Fuel Pressure Sensor - Before Fuel Filter:Erratic, Intermittent, or Incorrect",2021-12-06 14:02:10,53690,ABA00247,Lewis Hamilton
+Low,Diagnostic,289:2,Engine,"Fuel Pressure Sensor - Before Fuel Filter:Erratic, Intermittent, or Incorrect",2021-11-30 19:28:24,53614,ABA00247,Lewis Hamilton
+Low,Diagnostic,94:2,Engine,"Fuel Delivery Pressure Sensor:Erratic, Intermittent, or Incorrect",2021-11-30 19:28:24,53614,ABA00247,Lewis Hamilton
+Low,Event,38:1,Engine,Low Engine Coolant Temperature Warning,2021-11-30 10:44:51,53565,ABA00247,Lewis Hamilton
+Low,Diagnostic,336:2,Engine,"Engine Control Switch:Erratic, Intermittent, or Incorrect",2021-11-28 11:18:35,53609,ABA00247,Lewis Hamilton
+Low,Event,99:1,Engine,Engine Oil Filter Restriction Warning,2021-11-21 08:22:35,53574,ABA00247,Lewis Hamilton
+Low,Event,99:1,Engine,Engine Oil Filter Restriction Warning,2021-11-21 07:19:36,53573,ABA00247,Lewis Hamilton
+Low,Diagnostic,289:2,Engine,"Fuel Pressure Sensor - Before Fuel Filter:Erratic, Intermittent, or Incorrect",2021-11-20 20:31:23,53572,ABA00247,Lewis Hamilton
+Low,Diagnostic,94:2,Engine,"Fuel Delivery Pressure Sensor:Erratic, Intermittent, or Incorrect",2021-11-20 20:31:23,53572,ABA00247,Lewis Hamilton
+Low,Event,38:1,Engine,Low Engine Coolant Temperature Warning,2021-11-20 12:54:11,53565,ABA00247,Lewis Hamilton
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2021-11-20 04:17:52,53565,ABA00247,Lewis Hamilton
+Low,Diagnostic,336:2,Engine,"Engine Control Switch:Erratic, Intermittent, or Incorrect",2021-11-18 06:05:02,53542,ABA00247,Lewis Hamilton
+Low,Diagnostic,289:2,Engine,"Fuel Pressure Sensor - Before Fuel Filter:Erratic, Intermittent, or Incorrect",2021-11-17 10:35:01,53525,ABA00247,Lewis Hamilton
+Low,Diagnostic,94:2,Engine,"Fuel Delivery Pressure Sensor:Erratic, Intermittent, or Incorrect",2021-11-17 10:35:01,53525,ABA00247,Lewis Hamilton
+Low,Event,99:1,Engine,Engine Oil Filter Restriction Warning,2021-11-16 21:20:20,53512,ABA00247,Lewis Hamilton
+Low,Diagnostic,289:2,Engine,"Fuel Pressure Sensor - Before Fuel Filter:Erratic, Intermittent, or Incorrect",2021-11-16 10:47:14,53505,ABA00247,Lewis Hamilton
+Low,Diagnostic,94:2,Engine,"Fuel Delivery Pressure Sensor:Erratic, Intermittent, or Incorrect",2021-11-16 10:47:14,53505,ABA00247,Lewis Hamilton
+Low,Event,99:1,Engine,Engine Oil Filter Restriction Warning,2021-11-16 09:49:34,53504,ABA00247,Lewis Hamilton
+Low,Event,99:1,Engine,Engine Oil Filter Restriction Warning,2021-11-16 08:39:50,53503,ABA00247,Lewis Hamilton
+Low,Diagnostic,336:2,Engine,"Engine Control Switch:Erratic, Intermittent, or Incorrect",2021-11-16 05:20:26,53502,ABA00247,Lewis Hamilton
+Low,Event,38:1,Engine,Low Engine Coolant Temperature Warning,2021-11-16 04:46:28,53501,ABA00247,Lewis Hamilton
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2021-11-16 01:05:55,53501,ABA00247,Lewis Hamilton
+Low,Diagnostic,94:2,Engine,"Fuel Delivery Pressure Sensor:Erratic, Intermittent, or Incorrect",2021-11-15 21:04:14,53500,ABA00247,Lewis Hamilton
+Low,Diagnostic,289:2,Engine,"Fuel Pressure Sensor - Before Fuel Filter:Erratic, Intermittent, or Incorrect",2021-11-15 21:04:14,53500,ABA00247,Lewis Hamilton
+Low,Event,99:1,Engine,Engine Oil Filter Restriction Warning,2021-11-15 19:18:17,53498,ABA00247,Lewis Hamilton
+Low,Diagnostic,94:2,Engine,"Fuel Delivery Pressure Sensor:Erratic, Intermittent, or Incorrect",2021-11-15 18:16:15,53498,ABA00247,Lewis Hamilton
+Low,Diagnostic,289:2,Engine,"Fuel Pressure Sensor - Before Fuel Filter:Erratic, Intermittent, or Incorrect",2021-11-15 18:16:15,53498,ABA00247,Lewis Hamilton
+Low,Diagnostic,289:2,Engine,"Fuel Pressure Sensor - Before Fuel Filter:Erratic, Intermittent, or Incorrect",2021-11-15 10:07:00,53495,ABA00247,Lewis Hamilton
+Low,Diagnostic,94:2,Engine,"Fuel Delivery Pressure Sensor:Erratic, Intermittent, or Incorrect",2021-11-15 10:06:59,53495,ABA00247,Lewis Hamilton
+Low,Event,99:1,Engine,Engine Oil Filter Restriction Warning,2021-11-15 07:26:35,53493,ABA00247,Lewis Hamilton
+Low,Event,99:1,Engine,Engine Oil Filter Restriction Warning,2021-11-15 06:25:42,53492,ABA00247,Lewis Hamilton
+Low,Diagnostic,289:2,Engine,"Fuel Pressure Sensor - Before Fuel Filter:Erratic, Intermittent, or Incorrect",2021-11-15 03:05:28,53491,ABA00247,Lewis Hamilton
+Low,Diagnostic,94:2,Engine,"Fuel Delivery Pressure Sensor:Erratic, Intermittent, or Incorrect",2021-11-15 03:05:27,53491,ABA00247,Lewis Hamilton
+Low,Event,38:1,Engine,Low Engine Coolant Temperature Warning,2021-11-14 06:23:10,53474,ABA00247,Lewis Hamilton
+Low,Diagnostic,336:2,Engine,"Engine Control Switch:Erratic, Intermittent, or Incorrect",2021-11-13 23:02:02,53474,ABA00247,Lewis Hamilton
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2021-11-13 21:12:58,53474,ABA00247,Lewis Hamilton
+Low,Event,99:1,Engine,Engine Oil Filter Restriction Warning,2021-11-13 05:57:23,53459,ABA00247,Lewis Hamilton
+Low,Event,99:1,Engine,Engine Oil Filter Restriction Warning,2021-11-13 04:43:44,53457,ABA00247,Lewis Hamilton
+Low,Event,99:1,Engine,Engine Oil Filter Restriction Warning,2021-11-13 02:29:21,53455,ABA00247,Lewis Hamilton
+Low,Event,99:1,Engine,Engine Oil Filter Restriction Warning,2021-11-13 01:25:06,53454,ABA00247,Lewis Hamilton
+Low,Event,99:1,Engine,Engine Oil Filter Restriction Warning,2021-11-13 00:23:50,53453,ABA00247,Lewis Hamilton
+Low,Event,99:1,Engine,Engine Oil Filter Restriction Warning,2021-11-12 23:13:29,53452,ABA00247,Lewis Hamilton
+Low,Event,99:1,Engine,Engine Oil Filter Restriction Warning,2021-11-12 22:02:35,53451,ABA00247,Lewis Hamilton
+Low,Event,99:1,Engine,Engine Oil Filter Restriction Warning,2021-11-11 13:27:25,53438,ABA00247,Lewis Hamilton
+Low,Event,38:1,Engine,Low Engine Coolant Temperature Warning,2021-11-10 18:45:02,53432,ABA00247,Lewis Hamilton
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2021-11-10 16:06:49,53431,ABA00247,Lewis Hamilton
+Low,Event,99:1,Engine,Engine Oil Filter Restriction Warning,2021-11-03 12:36:28,53311,ABA00247,Lewis Hamilton
+Low,Diagnostic,94:2,Engine,"Fuel Delivery Pressure Sensor:Erratic, Intermittent, or Incorrect",2021-10-30 13:05:33,53306,ABA00247,Lewis Hamilton
+Low,Diagnostic,289:2,Engine,"Fuel Pressure Sensor - Before Fuel Filter:Erratic, Intermittent, or Incorrect",2021-10-30 13:05:33,53306,ABA00247,Lewis Hamilton
+Low,Event,38:1,Engine,Low Engine Coolant Temperature Warning,2021-10-30 05:59:22,53303,ABA00247,Lewis Hamilton
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2021-10-30 03:46:21,53302,ABA00247,Lewis Hamilton
+Low,Event,38:1,Engine,Low Engine Coolant Temperature Warning,2021-10-27 08:32:50,53248,ABA00247,Lewis Hamilton
+Low,Diagnostic,336:2,Engine,"Engine Control Switch:Erratic, Intermittent, or Incorrect",2021-10-27 06:12:03,53247,ABA00247,Lewis Hamilton
+Low,Event,99:1,Engine,Engine Oil Filter Restriction Warning,2021-10-25 07:13:08,53215,ABA00247,Lewis Hamilton
+Low,Event,99:1,Engine,Engine Oil Filter Restriction Warning,2021-10-24 20:22:32,53208,ABA00247,Lewis Hamilton
+Low,Event,38:1,Engine,Low Engine Coolant Temperature Warning,2021-10-21 15:37:22,53175,ABA00247,Lewis Hamilton
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2021-10-21 14:49:30,53174,ABA00247,Lewis Hamilton
+Low,Event,95:1,Engine,Fuel Filter Restriction Warning,2021-10-21 14:08:20,53174,ABA00247,Lewis Hamilton
+Low,Event,99:1,Engine,Engine Oil Filter Restriction Warning,2021-10-19 08:03:04,53143,ABA00247,Lewis Hamilton
+Low,Event,38:1,Engine,Low Engine Coolant Temperature Warning,2021-10-19 01:59:24,53140,ABA00247,Lewis Hamilton
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2021-10-18 22:42:09,53140,ABA00247,Lewis Hamilton
+Low,Diagnostic,336:2,Engine,"Engine Control Switch:Erratic, Intermittent, or Incorrect",2021-10-17 01:26:25,53130,ABA00247,Lewis Hamilton
+Low,Event,99:1,Engine,Engine Oil Filter Restriction Warning,2021-10-17 01:09:31,53130,ABA00247,Lewis Hamilton
+Low,Event,38:1,Engine,Low Engine Coolant Temperature Warning,2021-10-17 01:03:27,53130,ABA00247,Lewis Hamilton
+Low,Event,38:1,Engine,Low Engine Coolant Temperature Warning,2021-10-16 20:17:43,53127,ABA00247,Lewis Hamilton
+Low,Diagnostic,336:2,Engine,"Engine Control Switch:Erratic, Intermittent, or Incorrect",2021-10-16 20:04:01,53127,ABA00247,Lewis Hamilton
+Low,Event,38:1,Engine,Low Engine Coolant Temperature Warning,2021-10-15 17:46:17,53109,ABA00247,Lewis Hamilton
+High,Event,225:3,Engine,Engine Overcrank,2021-10-15 17:28:25,53109,ABA00247,Lewis Hamilton
+Low,Event,38:1,Engine,Low Engine Coolant Temperature Warning,2021-10-14 17:10:02,53092,ABA00247,Lewis Hamilton
+Low,Diagnostic,336:2,Engine,"Engine Control Switch:Erratic, Intermittent, or Incorrect",2021-10-12 23:00:45,53092,ABA00247,Lewis Hamilton
+Low,Event,99:1,Engine,Engine Oil Filter Restriction Warning,2021-10-10 11:24:18,53032,ABA00247,Lewis Hamilton
+Medium,Event,9:2,Engine,High Altitude Derate,2021-10-05 10:08:27,52946,ABA00247,Lewis Hamilton
+Medium,Event,9:2,Engine,High Altitude Derate,2021-10-05 02:59:54,52939,ABA00247,Lewis Hamilton
+Low,Diagnostic,336:2,Engine,"Engine Control Switch:Erratic, Intermittent, or Incorrect",2021-10-03 11:34:49,52911,ABA00247,Lewis Hamilton
+Low,Event,173:1,Engine,High Exhaust Temperature Warning,2021-10-02 14:34:24,52892,ABA00247,Lewis Hamilton
+Low,Event,38:1,Engine,Low Engine Coolant Temperature Warning,2021-10-02 14:02:55,52891,ABA00247,Lewis Hamilton
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2021-10-02 13:35:48,52891,ABA00247,Lewis Hamilton
+Low,Event,38:1,Engine,Low Engine Coolant Temperature Warning,2021-10-02 05:38:24,52883,ABA00247,Lewis Hamilton
+Medium,Event,31:2,Engine,Air Filter Restriction Derate,2021-10-02 05:28:35,52883,ABA00247,Lewis Hamilton

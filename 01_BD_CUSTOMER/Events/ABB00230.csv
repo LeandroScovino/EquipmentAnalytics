@@ -1,0 +1,101 @@
+﻿Severity,Type,Code,Source,Description,Timestamp,Run_Hours,Asset,Site
+Medium,Diagnostic,7:5,Engine #3,Cylinder #7 Injector:Current Below Normal,2022-04-19 04:03:29,41697,ABB00230,Marica
+Medium,Diagnostic,3:5,Engine #3,Cylinder #3 Injector:Current Below Normal,2022-04-19 03:46:32,41697,ABB00230,Marica
+Medium,Diagnostic,7:5,Engine #3,Cylinder #7 Injector:Current Below Normal,2022-04-19 03:02:24,41696,ABB00230,Marica
+Medium,Diagnostic,3:5,Engine #3,Cylinder #3 Injector:Current Below Normal,2022-04-19 02:08:54,41696,ABB00230,Marica
+Medium,Diagnostic,7:5,Engine #3,Cylinder #7 Injector:Current Below Normal,2022-04-19 01:47:16,41695,ABB00230,Marica
+Medium,Diagnostic,3:5,Engine #3,Cylinder #3 Injector:Current Below Normal,2022-04-19 01:05:57,41694,ABB00230,Marica
+Medium,Diagnostic,7:5,Engine #3,Cylinder #7 Injector:Current Below Normal,2022-04-19 00:13:38,41694,ABB00230,Marica
+Medium,Diagnostic,3:5,Engine #3,Cylinder #3 Injector:Current Below Normal,2022-04-18 23:50:48,41693,ABB00230,Marica
+Medium,Diagnostic,7:5,Engine #3,Cylinder #7 Injector:Current Below Normal,2022-04-18 22:58:40,41692,ABB00230,Marica
+Medium,Diagnostic,3:5,Engine #3,Cylinder #3 Injector:Current Below Normal,2022-04-18 22:43:15,41692,ABB00230,Marica
+Medium,Diagnostic,3:5,Engine #3,Cylinder #3 Injector:Current Below Normal,2022-04-18 21:42:25,41691,ABB00230,Marica
+Medium,Diagnostic,7:5,Engine #3,Cylinder #7 Injector:Current Below Normal,2022-04-18 21:41:05,41691,ABB00230,Marica
+Medium,Diagnostic,7:5,Engine #3,Cylinder #7 Injector:Current Below Normal,2022-04-18 20:41:00,41690,ABB00230,Marica
+Medium,Diagnostic,7:5,Engine #3,Cylinder #7 Injector:Current Below Normal,2022-04-18 16:57:29,41686,ABB00230,Marica
+Medium,Diagnostic,7:5,Engine #3,Cylinder #7 Injector:Current Below Normal,2022-04-18 15:55:38,41685,ABB00230,Marica
+Medium,Diagnostic,7:5,Engine #3,Cylinder #7 Injector:Current Below Normal,2022-04-18 14:34:59,41684,ABB00230,Marica
+Medium,Diagnostic,7:5,Engine #3,Cylinder #7 Injector:Current Below Normal,2022-04-18 13:27:39,41683,ABB00230,Marica
+Medium,Diagnostic,7:5,Engine #3,Cylinder #7 Injector:Current Below Normal,2022-04-18 11:12:50,41681,ABB00230,Marica
+Medium,Diagnostic,7:5,Engine #3,Cylinder #7 Injector:Current Below Normal,2022-04-18 08:48:35,41678,ABB00230,Marica
+Medium,Diagnostic,7:5,Engine #3,Cylinder #7 Injector:Current Below Normal,2022-04-18 06:57:01,41676,ABB00230,Marica
+Medium,Diagnostic,7:5,Engine #3,Cylinder #7 Injector:Current Below Normal,2022-04-18 05:50:40,41675,ABB00230,Marica
+Medium,Diagnostic,7:5,Engine #3,Cylinder #7 Injector:Current Below Normal,2022-04-18 03:56:19,41673,ABB00230,Marica
+Medium,Diagnostic,7:5,Engine #3,Cylinder #7 Injector:Current Below Normal,2022-04-18 01:55:00,41671,ABB00230,Marica
+Medium,Diagnostic,7:5,Engine #3,Cylinder #7 Injector:Current Below Normal,2022-04-17 22:41:42,41668,ABB00230,Marica
+Medium,Diagnostic,7:5,Engine #3,Cylinder #7 Injector:Current Below Normal,2022-04-17 21:32:40,41667,ABB00230,Marica
+Medium,Diagnostic,7:5,Engine #3,Cylinder #7 Injector:Current Below Normal,2022-04-17 20:30:48,41666,ABB00230,Marica
+Medium,Diagnostic,7:5,Engine #3,Cylinder #7 Injector:Current Below Normal,2022-04-17 19:30:16,41665,ABB00230,Marica
+Medium,Diagnostic,7:5,Engine #3,Cylinder #7 Injector:Current Below Normal,2022-04-17 18:16:00,41664,ABB00230,Marica
+Medium,Diagnostic,7:5,Engine #3,Cylinder #7 Injector:Current Below Normal,2022-04-17 17:07:16,41662,ABB00230,Marica
+Medium,Diagnostic,7:5,Engine #3,Cylinder #7 Injector:Current Below Normal,2022-04-17 15:45:31,41661,ABB00230,Marica
+Medium,Diagnostic,7:5,Engine #3,Cylinder #7 Injector:Current Below Normal,2022-04-17 12:48:49,41658,ABB00230,Marica
+Medium,Diagnostic,7:5,Engine #3,Cylinder #7 Injector:Current Below Normal,2022-04-17 11:37:33,41657,ABB00230,Marica
+Low,Event,38:1,Engine #3,Low Engine Coolant Temperature Warning,2022-04-17 08:24:00,41654,ABB00230,Marica
+Medium,Diagnostic,7:5,Engine #3,Cylinder #7 Injector:Current Below Normal,2022-04-17 04:56:48,41650,ABB00230,Marica
+Medium,Diagnostic,7:5,Engine #3,Cylinder #7 Injector:Current Below Normal,2022-04-17 00:58:09,41646,ABB00230,Marica
+Low,Event,38:1,Engine #3,Low Engine Coolant Temperature Warning,2022-04-16 22:39:16,41644,ABB00230,Marica
+Medium,Diagnostic,7:5,Engine #3,Cylinder #7 Injector:Current Below Normal,2022-04-16 22:35:33,41644,ABB00230,Marica
+Medium,Diagnostic,7:5,Engine #3,Cylinder #7 Injector:Current Below Normal,2022-04-16 21:22:30,41643,ABB00230,Marica
+Medium,Diagnostic,7:5,Engine #3,Cylinder #7 Injector:Current Below Normal,2022-04-16 20:22:44,41642,ABB00230,Marica
+Low,Event,38:1,Engine #3,Low Engine Coolant Temperature Warning,2022-04-16 12:54:31,41634,ABB00230,Marica
+Low,Event,38:1,Engine #3,Low Engine Coolant Temperature Warning,2022-04-16 11:44:33,41633,ABB00230,Marica
+Medium,Diagnostic,7:5,Engine #3,Cylinder #7 Injector:Current Below Normal,2022-04-16 08:34:35,41630,ABB00230,Marica
+Medium,Diagnostic,7:5,Engine #3,Cylinder #7 Injector:Current Below Normal,2022-04-16 06:58:41,41628,ABB00230,Marica
+Medium,Diagnostic,7:5,Engine #3,Cylinder #7 Injector:Current Below Normal,2022-04-16 05:45:49,41627,ABB00230,Marica
+Medium,Diagnostic,7:5,Engine #3,Cylinder #7 Injector:Current Below Normal,2022-04-16 04:45:23,41626,ABB00230,Marica
+Medium,Diagnostic,7:5,Engine #3,Cylinder #7 Injector:Current Below Normal,2022-04-16 03:32:42,41625,ABB00230,Marica
+Medium,Diagnostic,7:5,Engine #3,Cylinder #7 Injector:Current Below Normal,2022-04-15 22:42:04,41620,ABB00230,Marica
+Medium,Diagnostic,7:5,Engine #3,Cylinder #7 Injector:Current Below Normal,2022-04-15 21:38:45,41619,ABB00230,Marica
+Low,Event,38:1,Engine #3,Low Engine Coolant Temperature Warning,2022-04-15 17:05:03,41614,ABB00230,Marica
+Medium,Diagnostic,7:5,Engine #3,Cylinder #7 Injector:Current Below Normal,2022-04-15 15:38:32,41613,ABB00230,Marica
+Medium,Diagnostic,7:5,Engine #3,Cylinder #7 Injector:Current Below Normal,2022-04-15 11:07:02,41608,ABB00230,Marica
+Medium,Diagnostic,7:5,Engine #3,Cylinder #7 Injector:Current Below Normal,2022-04-15 07:06:44,41604,ABB00230,Marica
+Low,Event,38:1,Engine #3,Low Engine Coolant Temperature Warning,2022-04-15 04:35:23,41602,ABB00230,Marica
+Medium,Diagnostic,7:5,Engine #3,Cylinder #7 Injector:Current Below Normal,2022-04-15 04:20:58,41602,ABB00230,Marica
+Low,Event,38:1,Engine #3,Low Engine Coolant Temperature Warning,2022-04-15 02:15:27,41600,ABB00230,Marica
+Medium,Diagnostic,7:5,Engine #3,Cylinder #7 Injector:Current Below Normal,2022-04-15 01:38:31,41599,ABB00230,Marica
+Medium,Diagnostic,7:5,Engine #3,Cylinder #7 Injector:Current Below Normal,2022-04-15 00:07:33,41597,ABB00230,Marica
+Low,Event,38:1,Engine #3,Low Engine Coolant Temperature Warning,2022-04-14 22:55:32,41596,ABB00230,Marica
+Low,Event,38:1,Engine #3,Low Engine Coolant Temperature Warning,2022-04-14 16:50:42,41590,ABB00230,Marica
+Low,Event,38:1,Engine #3,Low Engine Coolant Temperature Warning,2022-04-14 14:42:47,41588,ABB00230,Marica
+High,Event,225:3,Engine #3,Engine Overcrank,2022-04-14 14:42:47,41588,ABB00230,Marica
+Medium,Diagnostic,336:2,Engine #3,"Engine Control Switch:Erratic, Intermittent, or Incorrect",2022-04-14 14:42:46,41588,ABB00230,Marica
+Medium,Diagnostic,444:6,Engine #3,Starter Motor Relay:Current Above Normal,2022-04-14 14:42:46,41588,ABB00230,Marica
+Medium,Diagnostic,342:8,Engine #3,"Secondary Engine Speed Sensor:Abnormal Frequency, Pulse Width, or Period",2022-04-14 14:42:46,41588,ABB00230,Marica
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-04-13 14:11:34,41588,ABB00230,Marica
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-04-10 10:11:38,41514,ABB00230,Marica
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-04-07 17:28:26,41476,ABB00230,Marica
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-04-07 09:13:33,41469,ABB00230,Marica
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-04-03 08:11:08,41385,ABB00230,Marica
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-04-02 20:48:37,41375,ABB00230,Marica
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-03-30 03:09:48,41291,ABB00230,Marica
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-03-29 09:30:20,41286,ABB00230,Marica
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-03-27 20:07:30,41277,ABB00230,Marica
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-03-27 08:35:28,41266,ABB00230,Marica
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-03-24 08:20:45,41195,ABB00230,Marica
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-03-17 22:08:22,41122,ABB00230,Marica
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-03-16 08:47:38,41100,ABB00230,Marica
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-03-15 13:18:23,41096,ABB00230,Marica
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-03-14 14:25:19,41095,ABB00230,Marica
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-03-13 08:03:06,41083,ABB00230,Marica
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-03-07 09:25:11,40964,ABB00230,Marica
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-03-03 10:22:40,40870,ABB00230,Marica
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-02-27 09:06:10,40819,ABB00230,Marica
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-02-26 06:31:53,40799,ABB00230,Marica
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-02-25 17:58:14,40787,ABB00230,Marica
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-02-24 20:22:57,40785,ABB00230,Marica
+Medium,Diagnostic,91:8,Engine #3,"Throttle Position Sensor:Abnormal Frequency, Pulse Width, or Period",2022-02-24 19:54:41,40784,ABB00230,Marica
+Medium,Diagnostic,542:3,Engine #3,Engine Oil Pressure Sensor - Before Oil Filter:Voltage Above Normal,2022-02-24 11:59:47,40784,ABB00230,Marica
+Medium,Diagnostic,100:3,Engine #3,Engine Oil Pressure Sensor:Voltage Above Normal,2022-02-24 11:59:47,40784,ABB00230,Marica
+Medium,Diagnostic,94:3,Engine #3,Fuel Delivery Pressure Sensor:Voltage Above Normal,2022-02-24 10:12:12,40775,ABB00230,Marica
+Medium,Diagnostic,91:13,Engine #3,Throttle Position Sensor:Out of Calibration,2022-02-24 10:12:12,40775,ABB00230,Marica
+Medium,Diagnostic,289:3,Engine #3,Fuel Pressure Sensor - Before Fuel Filter:Voltage Above Normal,2022-02-24 10:12:12,40775,ABB00230,Marica
+Low,Event,38:1,Engine #3,Low Engine Coolant Temperature Warning,2022-02-24 10:12:12,40779,ABB00230,Marica
+Medium,Diagnostic,444:6,Engine #3,Starter Motor Relay:Current Above Normal,2022-02-24 10:12:12,40775,ABB00230,Marica
+Low,Event,95:1,Engine #3,Fuel Filter Restriction Warning,2022-02-24 10:12:12,40778,ABB00230,Marica
+Medium,Diagnostic,91:8,Engine #3,"Throttle Position Sensor:Abnormal Frequency, Pulse Width, or Period",2022-02-24 10:12:12,40784,ABB00230,Marica
+High,Event,225:3,Engine #3,Engine Overcrank,2022-02-24 10:12:12,40768,ABB00230,Marica
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-02-21 12:58:11,40784,ABB00230,Marica
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-02-17 11:07:05,40780,ABB00230,Marica
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-02-16 22:48:27,40778,ABB00230,Marica

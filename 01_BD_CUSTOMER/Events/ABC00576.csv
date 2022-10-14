@@ -1,0 +1,41 @@
+﻿Severity,Type,Code,Source,Description,Timestamp,Run_Hours,Asset,Site
+Low,Event,190:1,Engine,Engine Overspeed Warning,2022-04-04 14:44:00,27976,ABC00576,Ilhas Maldivas
+High,Event,4:3,Engine,Engine Overspeed Shutdown,2022-04-04 14:44:00,27976,ABC00576,Ilhas Maldivas
+Medium,Diagnostic,11:5,Engine,Cylinder #11 Injector:Current Below Normal,2022-02-19 19:22:55,27575,ABC00576,Ilhas Maldivas
+Medium,Diagnostic,91:8,Engine,"Throttle Position Sensor:Abnormal Frequency, Pulse Width, or Period",2022-02-19 17:52:18,27575,ABC00576,Ilhas Maldivas
+Low,Diagnostic,336:2,Engine,"Engine Control Switch:Erratic, Intermittent, or Incorrect",2022-02-19 17:42:04,27575,ABC00576,Ilhas Maldivas
+Low,Diagnostic,101:3,Engine,Crankcase Air Pressure Sensor:Voltage Above Normal,2022-02-08 17:38:21,27460,ABC00576,Ilhas Maldivas
+High,Event,13:3,Engine,High Crankcase Pressure Shutdown,2022-02-08 17:20:27,27460,ABC00576,Ilhas Maldivas
+Low,Event,101:1,Engine,High Crankcase Pressure Warning,2022-02-08 17:00:05,27460,ABC00576,Ilhas Maldivas
+Medium,Event,9:2,Engine,High Altitude Derate,2022-02-08 16:59:57,27460,ABC00576,Ilhas Maldivas
+Medium,Diagnostic,8:6,Engine,Cylinder #8 Injector:Current Above Normal,2022-02-08 16:59:45,27460,ABC00576,Ilhas Maldivas
+Medium,Diagnostic,6:6,Engine,Cylinder #6 Injector:Current Above Normal,2022-02-08 16:59:45,27460,ABC00576,Ilhas Maldivas
+High,Event,264:3,Engine,Emergency Stop Activated,2022-02-04 14:22:37,27460,ABC00576,Ilhas Maldivas
+Low,Diagnostic,2738:3,Engine,Turbocharger #1 Compressor Inlet Pressure Sensor:Voltage Above Normal,2022-02-04 10:32:27,27460,ABC00576,Ilhas Maldivas
+Low,Diagnostic,2739:3,Engine,Turbocharger #2 Compressor Inlet Pressure Sensor:Voltage Above Normal,2022-02-04 10:31:58,27460,ABC00576,Ilhas Maldivas
+Low,Diagnostic,94:2,Engine,"Fuel Delivery Pressure Sensor:Erratic, Intermittent, or Incorrect",2022-02-03 13:47:59,27460,ABC00576,Ilhas Maldivas
+Low,Diagnostic,289:2,Engine,"Fuel Pressure Sensor - Before Fuel Filter:Erratic, Intermittent, or Incorrect",2022-02-03 13:47:59,27460,ABC00576,Ilhas Maldivas
+Medium,Diagnostic,91:8,Engine,"Throttle Position Sensor:Abnormal Frequency, Pulse Width, or Period",2022-02-03 09:20:00,27460,ABC00576,Ilhas Maldivas
+Low,Diagnostic,101:3,Engine,Crankcase Air Pressure Sensor:Voltage Above Normal,2022-02-03 08:29:35,27460,ABC00576,Ilhas Maldivas
+High,Event,225:3,Engine,Engine Overcrank,2022-02-02 16:21:45,27460,ABC00576,Ilhas Maldivas
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-02-02 16:17:47,27460,ABC00576,Ilhas Maldivas
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-01-16 15:07:30,27179,ABC00576,Ilhas Maldivas
+Low,Diagnostic,105:3,Engine,Inlet Manifold Temperature Sensor:Voltage Above Normal,2022-01-13 14:54:20,27130,ABC00576,Ilhas Maldivas
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2022-01-05 13:39:51,27014,ABC00576,Ilhas Maldivas
+Low,Event,2143:1,Engine,Low Engine Coolant Level,2021-12-21 23:12:15,26680,ABC00576,Ilhas Maldivas
+Low,Diagnostic,2738:3,Engine,Turbocharger #1 Compressor Inlet Pressure Sensor:Voltage Above Normal,2021-12-14 15:25:35,26631,ABC00576,Ilhas Maldivas
+Low,Diagnostic,101:3,Engine,Crankcase Air Pressure Sensor:Voltage Above Normal,2021-12-14 15:18:58,26631,ABC00576,Ilhas Maldivas
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,2021-11-20 09:59:59,26449,ABC00576,Ilhas Maldivas
+Low,Event,100:1,Engine,Low Engine Oil Pressure Warning,2021-11-20 09:53:34,26449,ABC00576,Ilhas Maldivas
+Low,Event,100:1,Engine,Low Engine Oil Pressure Warning,2021-11-17 10:36:57,26379,ABC00576,Ilhas Maldivas
+Low,Diagnostic,101:3,Engine,Crankcase Air Pressure Sensor:Voltage Above Normal,2021-10-14 10:52:33,25913,ABC00576,Ilhas Maldivas
+High,Event,225:3,Engine,Engine Overcrank,2021-10-14 10:22:41,25913,ABC00576,Ilhas Maldivas
+High,Event,13:3,Engine,High Crankcase Pressure Shutdown,2021-10-14 10:17:42,25913,ABC00576,Ilhas Maldivas
+Low,Event,101:1,Engine,High Crankcase Pressure Warning,2021-10-14 09:35:06,25913,ABC00576,Ilhas Maldivas
+Medium,Diagnostic,91:8,Engine,"Throttle Position Sensor:Abnormal Frequency, Pulse Width, or Period",2021-10-09 08:51:20,25868,ABC00576,Ilhas Maldivas
+Medium,Diagnostic,6:5,Engine,Cylinder #6 Injector:Current Below Normal,2021-10-09 08:02:56,25868,ABC00576,Ilhas Maldivas
+Medium,Diagnostic,7:5,Engine,Cylinder #7 Injector:Current Below Normal,2021-10-09 07:43:48,25868,ABC00576,Ilhas Maldivas
+Medium,Diagnostic,9:5,Engine,Cylinder #9 Injector:Current Below Normal,2021-10-09 07:40:57,25868,ABC00576,Ilhas Maldivas
+Low,Event,2143:1,Engine,Low Engine Coolant Level,2021-09-24 21:49:09,25746,ABC00576,Ilhas Maldivas
+Medium,Diagnostic,10:5,Engine,Cylinder #10 Injector:Current Below Normal,2021-07-13 20:42:06,24743,ABC00576,Ilhas Maldivas
+Low,Diagnostic,105:3,Engine,Inlet Manifold Temperature Sensor:Voltage Above Normal,2021-07-07 10:19:05,24693,ABC00576,Ilhas Maldivas

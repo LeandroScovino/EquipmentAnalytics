@@ -1,0 +1,14 @@
+﻿Severity,Type,Code,Source,Description,Count,Asset,Site
+Low,Event,48:1,Engine #5,Backup ECM Took Control,3,ABB00232,Florianopolis
+Medium,Diagnostic,101:3,Engine #5,Crankcase Air Pressure Sensor:Voltage Above Normal,1,ABB00232,Florianopolis
+Medium,Diagnostic,168:1,Engine #5,Electrical System Voltage:Low,1,ABB00232,Florianopolis
+Medium,Diagnostic,273:3,Engine #5,Turbocharger Outlet Pressure Sensor:Voltage Above Normal,1,ABB00232,Florianopolis
+Medium,Diagnostic,275:3,Engine #5,Right Turbocharger Inlet Pressure Sensor:Voltage Above Normal,1,ABB00232,Florianopolis
+Medium,Diagnostic,276:3,Engine #5,Left Turbocharger Inlet Pressure Sensor:Voltage Above Normal,1,ABB00232,Florianopolis
+Medium,Diagnostic,279:3,Engine #5,Aftercooler Coolant Temperature Sensor (Front):Voltage Above Normal,1,ABB00232,Florianopolis
+Medium,Diagnostic,289:3,Engine #5,Fuel Pressure Sensor - Before Fuel Filter:Voltage Above Normal,1,ABB00232,Florianopolis
+Medium,Diagnostic,342:8,Engine #5,"Secondary Engine Speed Sensor:Abnormal Frequency, Pulse Width, or Period",1,ABB00232,Florianopolis
+Medium,Diagnostic,542:3,Engine #5,Engine Oil Pressure Sensor - Before Oil Filter:Voltage Above Normal,1,ABB00232,Florianopolis
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,86,ABB00232,Florianopolis
+Medium,Diagnostic,91:13,Engine #5,Throttle Position Sensor:Out of Calibration,1,ABB00232,Florianopolis
+Medium,Diagnostic,91:8,Engine #5,"Throttle Position Sensor:Abnormal Frequency, Pulse Width, or Period",1,ABB00232,Florianopolis

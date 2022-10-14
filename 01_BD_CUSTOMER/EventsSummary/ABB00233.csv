@@ -1,0 +1,22 @@
+﻿Severity,Type,Code,Source,Description,Count,Asset,Site
+High,Event (J1939),3671:0,Not Available,Crank Attempt Count on Present Start Attempt:High - most severe (3),1,ABB00233,Marica
+Low,Event (J1939),100:3,Not Available,Engine Oil Pressure:Voltage Above Normal,1,ABB00233,Marica
+Low,Event (J1939),101:3,Not Available,Engine Crankcase Pressure:Voltage Above Normal,1,ABB00233,Marica
+Low,Event (J1939),102:3,Not Available,Engine Intake Manifold #1 Pressure:Voltage Above Normal,1,ABB00233,Marica
+Low,Event (J1939),102:4,Not Available,Engine Intake Manifold #1 Pressure:Voltage Below Normal,2,ABB00233,Marica
+Low,Event (J1939),105:3,Not Available,Engine Intake Manifold #1 Temperature:Voltage Above Normal,1,ABB00233,Marica
+Low,Event (J1939),108:3,Not Available,Barometric Pressure:Voltage Above Normal,1,ABB00233,Marica
+Low,Event (J1939),108:4,Not Available,Barometric Pressure:Voltage Below Normal,1,ABB00233,Marica
+Low,Event (J1939),110:17,Not Available,Engine Coolant Temperature:Low - least severe (1),4,ABB00233,Marica
+Low,Event (J1939),110:3,Not Available,Engine Coolant Temperature:Voltage Above Normal,2,ABB00233,Marica
+Low,Event (J1939),1176:3,Not Available,Engine Turbocharger #1 Compressor Inlet Pressure:Voltage Above Normal,1,ABB00233,Marica
+Low,Event (J1939),1177:3,Not Available,Engine Turbocharger #2 Compressor Inlet Pressure:Voltage Above Normal,1,ABB00233,Marica
+Low,Event (J1939),1382:3,Not Available,Engine Fuel Filter (suction side) Differential Pressure:Voltage Above Normal,1,ABB00233,Marica
+Low,Event (J1939),1656:2,Not Available,"Engine Automatic Start Enable Switch:Erratic, Intermittent, or Incorrect",1,ABB00233,Marica
+Low,Event (J1939),52:3,Not Available,Engine Intercooler Temperature:Voltage Above Normal,1,ABB00233,Marica
+Low,Event (J1939),620:4,Communication Gateway #1,5 Volts DC Supply:Voltage Below Normal,1,ABB00233,Marica
+Low,Event (J1939),620:4,Not Available,5 Volts DC Supply:Voltage Below Normal,4,ABB00233,Marica
+Low,Event (J1939),91:13,Not Available,Accelerator Pedal Position #1:Out of Calibration,7,ABB00233,Marica
+Low,Event (J1939),94:3,Not Available,Engine Fuel Delivery Pressure:Voltage Above Normal,1,ABB00233,Marica
+Low,Event (J1939),95:15,Not Available,Engine Fuel Filter Differential Pressure:High - least severe (1),5,ABB00233,Marica
+Medium,Diagnostic,590:9,Communication Gateway #1,Engine Control Module:Abnormal Update Rate,28,ABB00233,Marica

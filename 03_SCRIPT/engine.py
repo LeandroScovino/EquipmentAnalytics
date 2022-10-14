@@ -293,7 +293,7 @@ def concatenar_study(hdir, name):
                 try:
                     df.drop(columns=['DataM'],inplace=True)
                 except KeyError:
-                    continue
+                    pass
                 df.to_csv(hdir + '/' + outname, encoding='utf-8-sig', index=False)
                 
     if keepfiles == 0:
@@ -1604,7 +1604,6 @@ def preplistas(engine_file, event_file, ts_file, destfolder, deb):
 #                                     TESTE                                            #
 #                                                                                      #
 ########################################################################################
-
 
 # engine_file="D:/DEV/EquipmentAnalytics/02_DATALOGS/00_Jun2021_Apr2022/HistoricalData-Transposed-2022-04-29.zip"
 # event_file="D:/DEV/EquipmentAnalytics/02_DATALOGS/00_Jun2021_Apr2022/EngineEventHistory-2022-04-29.xlsx"
