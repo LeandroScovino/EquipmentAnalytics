@@ -1,13 +1,14 @@
 # EquipmentAnalytics
-CAT RFV Equipment Analytics Script and Power BI Report View
-
+## CAT RFV Equipment Analytics Script and Power BI Report View
 The purpose of the project, is to read and transform raw data in order to provide readable information for a customer. 
 
 The script can handle big datasets (a whole customer), cleaning, transforming and crossing information, to concatenate with a main data model.
-Main script: EquipmentAnalytics/03_SCRIPT/v4.2.py
+
+Main script / GUI (depends on engine.py): https://github.com/LeandroScovino/EquipmentAnalytics/blob/main/03_SCRIPT/v4.2.py
 
 The main database is modeled to feed a Power BI, Tableau, etc, analysis tool. For testing purposes, I've used Power BI.
-Main output: EquipmentAnalytics/Analytics_Visualiazation.pbix
+
+Main output: https://github.com/LeandroScovino/EquipmentAnalytics/blob/main/Analytics_Visualiazation.pbix
 
 You can have multiple types/branches of reports. From company executive board to operational managers and site/vessel mechanics. From big numbers, fuel consumption, to next maintenance interval prediction.
 
