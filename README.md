@@ -1,5 +1,5 @@
 # EquipmentAnalytics
-## CAT RFV Equipment Analytics Script and Power BI Report View
+## Equipment Analytics Script and Power BI Report View
 The purpose of the project, is to read and transform raw data in order to provide readable information for a customer. 
 
 The script can handle big datasets (a whole customer), cleaning, transforming and crossing information, to concatenate with a main data model.
